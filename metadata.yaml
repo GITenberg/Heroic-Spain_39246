@@ -1,0 +1,34 @@
+_repo: Heroic-Spain_39246
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: O'Reilly, Elizabeth Boyle
+    birthdate: 1874
+    gutenberg_agent_id: '39917'
+    url: http://www.gutenberg.org/2009/agents/39917
+description: Travelogues Collection offers readers a unique glimpse into the diverse
+  landscape, culture and wildlife of the world from the perspective of late 19th and
+  early 20th century esteemed travelers. From the exotic islands of Fiji to the lush
+  jungles of Africa to the bustling streets of New York City, these picturesque backdrops
+  set the scene for amusing, and at times prejudiced, anecdotes of adventure, survival
+  and camaraderie. Photographs and whimsical illustrations complement the descriptive
+  text, bringing to life the colorful characters encountered along the way. The Shelf2Life
+  Travelogues Collection allows readers to embark on a voyage into the past to experience
+  the world as it once was and meet the people who inhabited it.
+gutenberg_issued: '2012-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39246'
+  lccn: '10024189'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Description and travel'
+- !lcc 'DP'
+title: Heroic Spain
+url: http://www.gutenberg.org/ebooks/39246
